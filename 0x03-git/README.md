@@ -1,1 +1,1 @@
-3git
+just git
